@@ -15,7 +15,7 @@ on:
     branches: [ "master" ]
 
 jobs:
-  build java app:
+  build_java_app:
 
     runs-on: ubuntu-latest
 
